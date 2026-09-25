@@ -1,1 +1,3 @@
-# Complete-Stock-Chart-Analysis
+Conducted a comprehensive one-year stock market analysis of Tesla (TSLA) using Python, Pandas, and yfinance. Analyzed historical stock data to identify trends, price movements, trading activity, and statistical patterns.
+
+The project includes time-series analysis and data visualization of Tesla’s daily closing prices and trading volume, along with 30-day and 50-day moving averages to identify broader price trends and reduce the impact of daily fluctuations. I also calculated key descriptive statistics, including mean, median, standard deviation, minimum, and maximum values, and examined significant price and volume movements.
